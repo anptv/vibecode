@@ -74,20 +74,43 @@ The system operates end-to-end — from idea to deployment — with minimal huma
 
 ## Role Progression Summary
 
-| Level | Title                    | Human Role            | AI Responsibility         |
-|-------|--------------------------|-----------------------|---------------------------|
-| 1     | Coding Assistant         | Builder               | Autocomplete / Q&A        |
-| 2     | Intent-Driven Partner    | Builder               | File/block generation     |
-| 3     | Collaborative Engineer   | Reviewer              | Cross-file editing        |
-| 4     | Semi-Autonomous Agent    | Coordinator           | Plan, code, test          |
-| 5     | Fully Autonomous         | Architect / Observer  | End-to-end delivery       |
+| Level | Title                    | Human Role            | AI Responsibility         | Harness Fit         |
+|-------|--------------------------|-----------------------|---------------------------|---------------------|
+| 1     | Coding Assistant         | Builder               | Autocomplete / Q&A        | ✗ Too manual        |
+| 2     | Intent-Driven Partner    | Builder               | File/block generation     | ✦ Emerging          |
+| 3     | Collaborative Engineer   | Reviewer              | Cross-file editing        | ✅ Strong fit        |
+| 4     | Semi-Autonomous Agent    | Coordinator           | Plan, code, test          | ✅ Best fit          |
+| 5     | Fully Autonomous         | Architect / Observer  | End-to-end delivery       | ✗ Beyond harnessing |
+
+---
+
+## Understanding "Harness" in This Framework
+
+**"Harness"** means to *control, direct, and extract value from a powerful system* — like harnessing electricity or wind energy. The power already exists; your job is to channel it effectively.
+
+### Where "Harness" fits best: Levels 3–4
+
+At these levels, you are actively **steering** a highly capable AI toward your goals — providing context, reviewing outputs, and coordinating direction. This is the sweet spot of harnessing: you're in control of something powerful.
+
+### Why "Harness" doesn't fully describe Level 5
+
+At Level 5, the system is **self-directed**. You're no longer harnessing it — you're *observing* it. The human has stepped back to set only high-level goals, while the AI manages all execution autonomously.
+
+> 🐴 **Levels 3–4:** You're in the saddle, steering a powerful system. → *Harnessing AI*
+>
+> 🤖 **Level 5:** You designed the saddle, but the horse rides itself. → *Beyond harnessing — trusting & observing*
+
+Harnessing implies **ongoing human guidance**. Level 5 implies the AI has internalized that guidance and no longer needs it in real time.
 
 ---
 
 ## Key Takeaway
 
 > The higher the level, the more responsibility shifts from the human to the AI.  
-> The human's role evolves from **doing** → **reviewing** → **directing**.
+> The human's role evolves from **doing** → **reviewing** → **directing** → **observing**.
+
+- **"Harness AI"** is the right mindset for **Levels 3 and 4** — where human judgment and AI capability combine at their most productive.
+- **Level 5** represents a step *beyond* harnessing, into a model of **trust and systemic delegation**.
 
 Use this framework to assess where you currently operate, identify the skills needed to move up, and understand what kind of collaboration model suits your workflow best.
 
