@@ -117,3 +117,7 @@ Use this framework to assess where you currently operate, identify the skills ne
 ---
 
 *Based on the "Vibe Coding Levels & Self-Positioning" framework.*
+
+## References
+
+- [Harness Engineering là gì? — goonnguyen.substack.com](https://goonnguyen.substack.com/p/harness-engineering-la-gi)
